@@ -5,12 +5,6 @@ This project replicates the look and feel of the popular matrimonial platform **
 
 ---
 
-## 🌐 Live Demo
-👉 [Click here to view the live site](https://yourusername.github.io/shaadi-clone/)  
-*(Replace with your actual GitHub Pages link once deployed)*
-
----
-
 ## ✨ Features
 - Responsive homepage design  
 - Navigation bar with multiple links  
